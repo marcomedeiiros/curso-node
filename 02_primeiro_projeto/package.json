@@ -1,0 +1,20 @@
+{
+  "name": "senai-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "DATABASE"
+  ],
+  "author": "Marco Medeiros",
+  "license": "ISC",
+  "description": "API Para gerenciar itens do banco de dados",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.0.0"
+  }
+}
