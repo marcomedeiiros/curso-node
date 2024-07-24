@@ -1,1 +1,1 @@
-# node-curso
+# curso-node
